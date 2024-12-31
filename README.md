@@ -1,5 +1,6 @@
 # fraud_detection
 #DataScience #Supervised #Classification
+#Objective : To determine fraud among credit card user.
 
 #Data
 id: Unique identifier for each transaction
